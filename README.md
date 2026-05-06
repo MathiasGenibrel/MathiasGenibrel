@@ -110,14 +110,6 @@ Mon profil public ne met donc plus en avant une stack web complète, simplement 
 > Une grande partie de mon activité professionnelle se fait aujourd’hui sur **GitLab** et sur des repositories privés.  
 > Ces statistiques GitHub ne représentent donc qu’une partie de mon activité réelle.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathiasGenibrel&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Statistiques GitHub de Mathias" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGenibrel&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Langages les plus utilisés" />
-</p>
-
 ## Me retrouver
 
 <p align="left">
